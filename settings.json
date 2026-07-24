@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Come_back_Storm_SMP.aternos.me",
-    "port": 61340,
+    "ip": "stormsmp2.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
